@@ -13,6 +13,6 @@ This is an interactive web-based UNO card game built with React. The game replic
 
 ## Technologies Used
 - React.js  
-- JavaScript (ES6+)  
+- JavaScript (ES6+) 
 - HTML5 & CSS3  
 - Netlify / Vercel (for deployment)  
